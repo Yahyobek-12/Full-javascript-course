@@ -54,3 +54,23 @@ console.log(undefinedVar)
 let sym1 = Symbol('unique')
 let sym2 = Symbol('unique')
 console.log(sym1 === sym2)
+
+// ================================================================================================================
+
+// 8) object
+/* Object bu bir-biriga bog'liq ma'lumotlarni to'plamni ifodalaydi. Ular kalit-va-qiymat juftliklari (key-value pairs) tarzida tashkil etilgan. Ob'ektlar ma'lumotlarni tashkil etishda juda qulay. */
+
+const person = {
+    name: 'yahyobek',
+    age: 16,
+    job: 'developer'
+}
+console.log(person)
+
+// ================================================================================================================
+
+// 9) array
+/* Array ro'yxat yoki ketma-ketlikni ifodalaydi. Ular tartiblangan qiymatlar to'plamidir va indekslar orqali mavjud qiymatlarga murojaat qilish mumkin. Indekslar 0-dan boshlanadi. */
+
+let cars = ['bmw', 'mers', 'mclaren']
+console.log(cars.reverse())
