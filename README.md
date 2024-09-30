@@ -2,4 +2,3 @@
 # 📁 Full Javascript Course
 ## More Course
 ### Youtube: https://www.youtube.com/@yahyobek_12
-### Instagram: https://www.instagram.com/programming.with.yahyobek/
